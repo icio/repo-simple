@@ -1,2 +1,3 @@
 # PACKAGE	ORIGIN	IDENT
 Jinja2	github	icio/jinja2
+markupsafe	github	icio/markupsafe
